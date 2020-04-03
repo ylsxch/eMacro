@@ -85,7 +85,7 @@ Auto adjust the height of merged cells
 If you want to batch get the URL in the a tag on the web page. You will need this method.
 ```
 
-![5-2](https://github.com/ylsxch/eMacro/blob/master/resources/emacro/5-2.png)
+![5-2](https://github.com/ylsxch/eMacro/blob/master/resources/5-2.png)
 
 ```
 First copy this to the excel, and those a links will turn to Hyper Links.
